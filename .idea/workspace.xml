@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="957c5fef-64e2-4288-ab6b-a2057599836c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstMochaProject/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MyFirstMochaProject/Test.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyFirstMochaProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/MyFirstMochaProject/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyFirstMochaProject/Server.js" afterPath="$PROJECT_DIR$/MyFirstMochaProject/Server.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
