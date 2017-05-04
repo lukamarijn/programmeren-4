@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="957c5fef-64e2-4288-ab6b-a2057599836c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstMochaProject/routes/routes_api_v1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyFirstMochaProject/routes/routes_api_v2.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyFirstMochaProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/MyFirstMochaProject/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyFirstMochaProject/Server.js" afterPath="$PROJECT_DIR$/MyFirstMochaProject/Server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyFirstMochaProject/tsconfig.json" afterPath="$PROJECT_DIR$/MyFirstMochaProject/tsconfig.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
